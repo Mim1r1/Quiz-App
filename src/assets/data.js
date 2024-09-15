@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Головний персонаж ГТАСА?",
+      option1: "CJ",
+      option2: "Big Smok",
+      option3: "Pes Patron",
+      option4: "Maikle Jacson",
+      ans: 1,
+    },
+    {
+      question: "Як звати вчителя?",
+      option1: "Oleg",
+      option2: "Petro",
+      option3: "Vasil",
+      option4: "Vlad",
+      ans: 4,
+    },
+    {
+      question: "Хто мявкає?",
+      option1: "Kit",
+      option2: "Pes",
+      option3: "Kin",
+      option4: "Pan Maliuha Vladislav Olegivich kotik miav",
+      ans: 1,
+    },
+    {
+      question: "Скільки у людини пальців?",
+      option1: "5",
+      option2: "10",
+      option3: "20",
+      option4: "29",
+      ans: 3,
+    },
+    {
+      question: "Хто засновник фірми Tesla?",
+      option1: "Maliuha Vladislv Olegovich",
+      option2: "Ilon Mask",
+      option3: "Zelenskiy",
+      option4: "Snoop Dog",
+      ans: 2,
+    },
+  ];
